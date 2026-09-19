@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+.dev.vars*
+.wrangler/
+test-results/
+playwright-report/
+wrangler.pilot.jsonc
+*.sql.backup
+backup*.sql

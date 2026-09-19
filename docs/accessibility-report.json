@@ -1,0 +1,38 @@
+[
+  {
+    "screen": "Welcome",
+    "violations": []
+  },
+  {
+    "screen": "Overview",
+    "violations": []
+  },
+  {
+    "screen": "Meals",
+    "violations": []
+  },
+  {
+    "screen": "Bazar",
+    "violations": []
+  },
+  {
+    "screen": "Accounts",
+    "violations": []
+  },
+  {
+    "screen": "Members",
+    "violations": []
+  },
+  {
+    "screen": "Reports",
+    "violations": []
+  },
+  {
+    "screen": "Activity",
+    "violations": []
+  },
+  {
+    "screen": "Settings",
+    "violations": []
+  }
+]

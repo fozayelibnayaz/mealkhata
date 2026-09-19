@@ -1,0 +1,1 @@
+PASS: production service worker ready; private API responses absent from shell cache; offline reload served app shell; opt-in IndexedDB copy opened read-only; reconnect restored live session.

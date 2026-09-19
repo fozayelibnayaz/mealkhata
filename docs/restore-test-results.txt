@@ -1,0 +1,9 @@
+PASS: users — 4 rows match exactly
+PASS: workspace_documents — 2 rows match exactly
+PASS: workspace_operations — 16 rows match exactly
+PASS: workspace_audit — 16 rows match exactly
+PASS: workspace_access — 3 rows match exactly
+PASS: invites — 1 rows match exactly
+PASS: sessions — 3 rows match exactly
+PASS: schema_meta — 1 rows match exactly
+PASS: SQLite integrity check; read-only restore comparison complete.
